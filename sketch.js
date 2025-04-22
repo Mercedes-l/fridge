@@ -16,7 +16,7 @@ let milkFrameThree
 
 
 function preload (){
-  fridgeDoor = loadImage("/fridgeDoor.png")
+  fridgeDoor = loadImage("fridgeDoor.png")
   fridgeRedOne= loadImage("fridgeRedOne.png")
   fridgeRedTwo = loadImage("fridgeRedTwo.png")
   milk = loadImage("milk.png")
